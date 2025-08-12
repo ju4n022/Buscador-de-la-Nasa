@@ -3,9 +3,10 @@ main {
 
   }
 
-#contenedor {
+.contenedor {
 
     display: flex;
   flex-wrap: wrap; /* Para que salten de línea si no caben */
   gap: 1rem; 
 }
+
